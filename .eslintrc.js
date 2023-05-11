@@ -14,6 +14,7 @@ module.exports = {
     plugins: ['@typescript-eslint', 'sonarjs', 'security', 'react', 'jest'],
     rules: {
       // Additional rules go here
+      // Created with love by Ansh Goyal
     },
   };
   

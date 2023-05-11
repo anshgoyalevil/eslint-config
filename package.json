@@ -1,6 +1,6 @@
 {
   "name": "@anshgoyalevil/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to globalize the eslint rules across an organization",
   "main": "index.js",
   "scripts": {

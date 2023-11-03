@@ -25,11 +25,12 @@ module.exports = {
 This package extends the following plugins:
 
 ```js
-'plugin:@typescript-eslint
-'plugin:sonarjs
-'plugin:security
-'plugin:react
-'plugin:jest
+plugin:@typescript-eslint
+plugin:sonarjs
+plugin:security
+plugin:react
+plugin:jest
+plugin:cypress
 ```
 
 For typescript support, additional TypeScript Eslint Parser is included.
